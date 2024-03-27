@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-modal-close-x {
+  background-color: #4babae;
+  border-radius: 50%;
+  color: white;
+  font-size: 12px !important;
+  padding: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.ant-input-affix-wrapper-focused {
+  border: none;
+  box-shadow: none !important;
+}
+.css-dev-only-do-not-override-1qhpsh8 .ant-input-outlined {
+  border: none;
+}
+.ant-input-affix-wrapper {
+  padding: 0 !important;
+  width: 90%;
+}
+
+.ant-input-suffix {
+  border: none;
+}
